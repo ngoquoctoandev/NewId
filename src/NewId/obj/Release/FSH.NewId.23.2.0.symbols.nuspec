@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FSH.NewId</id>
+    <version>23.2.0</version>
+    <title>FullStackHero.NewId</title>
+    <authors>Ngô Quốc Toản</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>fsh500x500.png</icon>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/fullstackheroso/NewId</projectUrl>
+    <description>A sequential id generator that works across nodes with no collisions</description>
+    <copyright>Copyright 2023 FSH</copyright>
+    <tags>FSH,FullStackHero,NewId</tags>
+    <repository type="git" url="https://github.com/fullstackheroso/NewId" />
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\fullstackhero\source\repos\NewId\src\NewId\bin\Release\net7.0\FSH.NewId.pdb" target="lib\net7.0\FSH.NewId.pdb" />
+  </files>
+</package>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aw/mu1A0G8m2oxBO+fi1hPEkaCeP9ykV37Ky/+bhnvnxaSVFvQYJiVoNiNHZekOK2XwVY9g6GrVF4tvsqnLQlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fullstackhero\\source\\repos\\NewId\\src\\NewId\\NewId.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fullstackhero\\.nuget\\packages\\microsoft.build.tasks.git\\1.1.1\\microsoft.build.tasks.git.1.1.1.nupkg.sha512",
+    "C:\\Users\\fullstackhero\\.nuget\\packages\\microsoft.sourcelink.common\\1.1.1\\microsoft.sourcelink.common.1.1.1.nupkg.sha512",
+    "C:\\Users\\fullstackhero\\.nuget\\packages\\microsoft.sourcelink.github\\1.1.1\\microsoft.sourcelink.github.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

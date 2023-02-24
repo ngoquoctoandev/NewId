@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = MassTransit.Benchmarks
+build_property.ProjectDir = C:\Users\fullstackhero\source\repos\NewId\tests\NewId.Benchmarks\

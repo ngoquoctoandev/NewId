@@ -1,0 +1,15 @@
+C:\Users\fullstackhero\source\repos\NewId\src\NewId\bin\Release\net7.0\FSH.NewId.deps.json
+C:\Users\fullstackhero\source\repos\NewId\src\NewId\bin\Release\net7.0\FSH.NewId.dll
+C:\Users\fullstackhero\source\repos\NewId\src\NewId\bin\Release\net7.0\FSH.NewId.pdb
+C:\Users\fullstackhero\source\repos\NewId\src\NewId\bin\Release\net7.0\FSH.NewId.xml
+C:\Users\fullstackhero\source\repos\NewId\src\NewId\obj\Release\net7.0\NewId.csproj.AssemblyReference.cache
+C:\Users\fullstackhero\source\repos\NewId\src\NewId\obj\Release\net7.0\NewId.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fullstackhero\source\repos\NewId\src\NewId\obj\Release\net7.0\NewId.AssemblyInfoInputs.cache
+C:\Users\fullstackhero\source\repos\NewId\src\NewId\obj\Release\net7.0\NewId.AssemblyInfo.cs
+C:\Users\fullstackhero\source\repos\NewId\src\NewId\obj\Release\net7.0\NewId.csproj.CoreCompileInputs.cache
+C:\Users\fullstackhero\source\repos\NewId\src\NewId\obj\Release\net7.0\NewId.sourcelink.json
+C:\Users\fullstackhero\source\repos\NewId\src\NewId\obj\Release\net7.0\FSH.NewId.dll
+C:\Users\fullstackhero\source\repos\NewId\src\NewId\obj\Release\net7.0\refint\FSH.NewId.dll
+C:\Users\fullstackhero\source\repos\NewId\src\NewId\obj\Release\net7.0\FSH.NewId.xml
+C:\Users\fullstackhero\source\repos\NewId\src\NewId\obj\Release\net7.0\FSH.NewId.pdb
+C:\Users\fullstackhero\source\repos\NewId\src\NewId\obj\Release\net7.0\ref\FSH.NewId.dll
